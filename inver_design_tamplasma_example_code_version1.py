@@ -3,6 +3,7 @@
 # Important note: The algorithm uses Tensorflow to back-propagate to inversely design the parameters of THIN FILM OPTICS.
 # Important note: Here is an example to design a structure normally called "Tamm plasmon", which is a multi-dielectric layer stacks on a metallic layer.
 # If you use the code, please cite our manuscript
+# If you have any questions, please contact us via   josh.caldwell@vanderbilt.edu    mingze.he@vanderbilt.edu
 
 
 # Important note: Tensorflow used here is TF. 2.3.0, CPU mode is used
