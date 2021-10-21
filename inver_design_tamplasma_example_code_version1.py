@@ -1,8 +1,10 @@
+ 
 # Import the package
 # Important note: This code is developed by Mingze He at Vanderbilt University, USA, under supervision of Prof. Joshua D. Caldwell.
 # Important note: The algorithm uses Tensorflow to back-propagate to inversely design the parameters of THIN FILM OPTICS.
 # Important note: Here is an example to design a structure normally called "Tamm plasmon", which is a multi-dielectric layer stacks on a metallic layer.
-# If you use the code, please cite our manuscript
+# If you use the code, please cite our paper: Deterministic inverse design of Tamm plasmon thermal emitters with multi-resonant control. Nat. Mater. (2021).
+# https://doi.org/10.1038/s41563-021-01094-0
 # If you have any questions, please contact us via   josh.caldwell@vanderbilt.edu    mingze.he@vanderbilt.edu
 
 
